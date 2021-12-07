@@ -5,6 +5,9 @@
   <img src="https://raw.githubusercontent.com/Nacho-Lopez-Guerrero/Spiders-in-my-Office/main/Screenshots/Spiders_Title.png?raw=true"/>
 </p>
 
+![Alt text](/Screenshots/Spiders_1.jpg?raw=true )
+
+## English
 ###### About this game:
 
 'Spiders in my Office!' is the last and more complete of my actual projects. It's a bird's eye view shooter with dark atmosphere in which you have to survive to huge waves of enemies that will be more numerous and dangerouse each time, using one of your three weapons to accomplish your mission: handgun, shotgun or machinegun. Every time you kill an enemy your experience will rise, once you get enough your level will increase and you'll be deadlier.
@@ -39,7 +42,7 @@ Keyboard:
 
 [E] --> Open/Close Doors
 
-
+## Spanish
 ###### Sobre este juego:
 
 'Spiders in my Office!' es un shooter de ambientación oscura con vista cenital en el que debes sobrevivir a diferentes oleadas de enemigos cada vez más numerosas y peligrosas, utilizando para ello una de las tres armas armas que tienes a tu disposición: pistola, escopeta o metralleta. Cada vez que mates a un enemigo tu experiencia aumentará, cuando hayas conseguido la suficiente subirás de nivel y serás más letal.
@@ -74,7 +77,6 @@ Teclado:
 
 [E] --> Abrir/Cerrar puertas
 
-![Alt text](/Screenshots/Spiders_1.jpg?raw=true )
 
 ![Alt text](/Screenshots/Spiders_2.jpg?raw=true )
 
