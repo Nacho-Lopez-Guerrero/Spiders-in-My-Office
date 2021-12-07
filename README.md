@@ -1,6 +1,10 @@
 # Spiders in my office!
 ## Unity C# - Top Down Shooter
 
+<p align="center">
+  <img src="https://github.com/Nacho-Lopez-Guerrero/Spiders-in-my-Office/tree/main/Screenshots/Spiders_Title.png?raw=true"/>
+</p>
+
 ###### About this game:
 
 'Spiders in my Office!' is the last and more complete of my actual projects. It's a bird's eye view shooter with dark atmosphere in which you have to survive to huge waves of enemies that will be more numerous and dangerouse each time, using one of your three weapons to accomplish your mission: handgun, shotgun or machinegun. Every time you kill an enemy your experience will rise, once you get enough your level will increase and you'll be deadlier.
@@ -35,9 +39,6 @@ Keyboard:
 
 [E] --> Open/Close Doors
 
-
-# Spiders in my office!
-## Unity C# - Top Down Shooter
 
 ###### Sobre este juego:
 
@@ -74,7 +75,11 @@ Teclado:
 [E] --> Abrir/Cerrar puertas
 
 ![Alt text](/Screenshots/Spiders_1.jpg?raw=true )
+
 ![Alt text](/Screenshots/Spiders_2.jpg?raw=true )
+
 ![Alt text](/Screenshots/Spiders_3.jpg?raw=true )
+
 ![Alt text](/Screenshots/Spiders_4.jpg?raw=true )
+
 ![Alt text](/Screenshots/Spiders_5.jpg?raw=true )
