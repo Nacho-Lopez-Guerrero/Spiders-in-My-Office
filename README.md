@@ -2,7 +2,7 @@
 ## Unity C# - Top Down Shooter
 
 <p align="center">
-  <img src="https://github.com/Nacho-Lopez-Guerrero/Spiders-in-my-Office/tree/main/Screenshots/Spiders_Title.png?raw=true"/>
+  <img src="https://raw.githubusercontent.com/Nacho-Lopez-Guerrero/Spiders-in-my-Office/main/Screenshots/Spiders_Title.png?raw=true"/>
 </p>
 
 ###### About this game:
