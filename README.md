@@ -1,4 +1,4 @@
-# Spiders in my office!
+# Spiders in my Office!
 ## Unity C# - Top Down Shooter
 
 <p align="center">
